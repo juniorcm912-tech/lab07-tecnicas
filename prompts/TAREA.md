@@ -16,7 +16,7 @@ Dame casos de prueba para un registro de usuarios.
 <formato>Tabla con las columnas: ID, Escenario, Datos de entrada, Resultado esperado.</formato>
 ````
 
-## Version 3:
+## Version 2: prompt avanzado
 
 ```text
 <rol>Actúa como un analista de pruebas de software (QA Engineer Senior) especializado en seguridad y validación de formularios.</rol>
